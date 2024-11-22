@@ -1,0 +1,15 @@
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\bin\Debug\net9.0\ativSistControleClientes.exe
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\bin\Debug\net9.0\ativSistControleClientes.deps.json
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\bin\Debug\net9.0\ativSistControleClientes.runtimeconfig.json
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\bin\Debug\net9.0\ativSistControleClientes.dll
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\bin\Debug\net9.0\ativSistControleClientes.pdb
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\ativSistControleClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\ativSistControleClientes.AssemblyInfoInputs.cache
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\ativSistControleClientes.AssemblyInfo.cs
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\ativSistControleClientes.csproj.CoreCompileInputs.cache
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\ativSistControleClientes.sourcelink.json
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\ativSistControleClientes.dll
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\refint\ativSistControleClientes.dll
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\ativSistControleClientes.pdb
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\ativSistControleClientes.genruntimeconfig.cache
+C:\Users\gabyd\OneDrive\Documentos\SENAI\sp2\ativSistControleClientes\obj\Debug\net9.0\ref\ativSistControleClientes.dll
